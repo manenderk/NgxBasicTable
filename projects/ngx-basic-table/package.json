@@ -1,6 +1,36 @@
 {
   "name": "ngx-basic-table",
   "version": "0.0.1",
+  "description": "A simple dynamic table to work with angular applications",
+  "keywords": [
+    "ngx",
+    "ng",
+    "ng2",
+    "basic",
+    "table",
+    "manender",
+    "angular",
+    "angular2",
+    "angular2+"
+  ],
+  "homepage": "https://github.com/manenderk/NgxBasicTable",
+  "bugs": {
+    "url": "https://github.com/manenderk/NgxBasicTable/issues",
+    "email": "manender369@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/manenderk/NgxBasicTable"
+  },
+  "author": {
+    "name": "Manender",
+    "email": "manender369@gmail.com",
+    "url": "https://www.linkedin.com/in/manender-kumar/"
+  },
+  "license": "MIT",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "peerDependencies": {
     "@angular/common": "^9.1.12",
     "@angular/core": "^9.1.12"
