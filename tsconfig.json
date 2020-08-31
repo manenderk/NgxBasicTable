@@ -14,7 +14,17 @@
     "lib": [
       "es2018",
       "dom"
-    ]
+    ],
+    "paths": {
+      "basic-table": [
+        "dist/basic-table/basic-table",
+        "dist/basic-table"
+      ],
+      "ngx-basic-table": [
+        "dist/ngx-basic-table/ngx-basic-table",
+        "dist/ngx-basic-table"
+      ]
+    }
   },
   "angularCompilerOptions": {
     "fullTemplateTypeCheck": true,
