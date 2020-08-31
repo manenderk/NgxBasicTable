@@ -1,5 +1,5 @@
 {
-  "name": "ngx-basic-table",
+  "name": "@manenderk/ngx-basic-table",
   "version": "0.0.1",
   "description": "A simple dynamic table to work with angular applications",
   "keywords": [
@@ -20,7 +20,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/manenderk/NgxBasicTable"
+    "url": "https://github.com/manenderk/NgxBasicTable.git"
   },
   "author": {
     "name": "Manender",
