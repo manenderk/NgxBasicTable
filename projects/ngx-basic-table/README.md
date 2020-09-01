@@ -19,7 +19,7 @@ import { NgxBasicTableModule } from 'ngx-basic-table';
 ```
 imports: [
   ...
-  RouterModule.forChild(routes),
+  NgxBasicTableModule
   ...
 ]
 ```
