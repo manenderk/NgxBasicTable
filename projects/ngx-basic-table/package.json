@@ -1,6 +1,6 @@
 {
   "name": "@manenderk/ngx-basic-table",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A simple dynamic table to work with angular applications",
   "keywords": [
     "ngx",
@@ -28,9 +28,6 @@
     "url": "https://www.linkedin.com/in/manender-kumar/"
   },
   "license": "MIT",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
-  },
   "peerDependencies": {
     "@angular/common": "^9.1.12",
     "@angular/core": "^9.1.12"
